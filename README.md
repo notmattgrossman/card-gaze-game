@@ -1,4 +1,4 @@
-![Scene](scene.png)
+![Scene](img/scene.png)
 
 # Card Game
 
